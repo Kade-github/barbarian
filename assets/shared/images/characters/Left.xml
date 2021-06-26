@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Left.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="LEFT pose barbarian0000" x="0" y="0" width="1817" height="1081" frameX="-0" frameY="-0" frameWidth="1829" frameHeight="1081"/>
+<SubTexture name="LEFT pose barbarian0001" x="1867" y="0" width="1683" height="1073" frameX="-134" frameY="-8" frameWidth="1829" frameHeight="1081"/>
+<SubTexture name="LEFT pose barbarian0002" x="0" y="1131" width="1310" height="1065" frameX="-507" frameY="-16" frameWidth="1829" frameHeight="1081"/>
+<SubTexture name="LEFT pose barbarian0003" x="1360" y="1131" width="1296" height="1061" frameX="-527" frameY="-20" frameWidth="1829" frameHeight="1081"/>
+<SubTexture name="LEFT pose barbarian0004" x="2706" y="1131" width="1279" height="1060" frameX="-550" frameY="-21" frameWidth="1829" frameHeight="1081"/>
+</TextureAtlas>

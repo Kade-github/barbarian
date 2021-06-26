@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Idle.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="Barb Idle0001.png" x="1" y="1" width="1345" height="1155" frameX="-0" frameY="-0" frameWidth="1345" frameHeight="1155"/>
+<SubTexture name="Barb Idle0002.png" x="1348" y="1" width="1345" height="1155" frameX="-0" frameY="-0" frameWidth="1345" frameHeight="1155"/>
+<SubTexture name="Barb Idle0003.png" x="1" y="1158" width="1345" height="1155" frameX="-0" frameY="-0" frameWidth="1345" frameHeight="1155"/>
+<SubTexture name="Barb Idle0004.png" x="1348" y="1158" width="1345" height="1155" frameX="-0" frameY="-0" frameWidth="1345" frameHeight="1155"/>
+<SubTexture name="Barb Idle0005.png" x="1" y="2315" width="1345" height="1155" frameX="-0" frameY="-0" frameWidth="1345" frameHeight="1155"/>
+<SubTexture name="Barb Idle0006.png" x="1348" y="2315" width="1345" height="1155" frameX="-0" frameY="-0" frameWidth="1345" frameHeight="1155"/>
+<SubTexture name="Barb Idle0007.png" x="2695" y="1" width="1345" height="1155" frameX="-0" frameY="-0" frameWidth="1345" frameHeight="1155"/>
+<SubTexture name="Barb Idle0008.png" x="2695" y="1158" width="1345" height="1155" frameX="-0" frameY="-0" frameWidth="1345" frameHeight="1155"/>
+<SubTexture name="Barb Idle0009.png" x="2695" y="2315" width="1345" height="1155" frameX="-0" frameY="-0" frameWidth="1345" frameHeight="1155"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Down.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="DOWN0000" x="0" y="0" width="1689" height="962" frameX="-29" frameY="-94" frameWidth="1718" frameHeight="1056"/>
+<SubTexture name="DOWN0001" x="1739" y="0" width="1627" height="987" frameX="-38" frameY="-69" frameWidth="1718" frameHeight="1056"/>
+<SubTexture name="DOWN0002" x="0" y="1037" width="1599" height="1017" frameX="-35" frameY="-39" frameWidth="1718" frameHeight="1056"/>
+<SubTexture name="DOWN0003" x="1649" y="1037" width="1631" height="1044" frameX="-18" frameY="-12" frameWidth="1718" frameHeight="1056"/>
+<SubTexture name="DOWN0004" x="0" y="2131" width="1659" height="1056" frameX="-0" frameY="-0" frameWidth="1718" frameHeight="1056"/>
+</TextureAtlas>

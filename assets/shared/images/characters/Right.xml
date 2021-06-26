@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Right.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="Barbarian RIGHT animation0000" x="0" y="0" width="1537" height="1350" frameX="-66" frameY="-61" frameWidth="1603" frameHeight="1411"/>
+<SubTexture name="Barbarian RIGHT animation0001" x="1587" y="0" width="1473" height="1305" frameX="-58" frameY="-20" frameWidth="1603" frameHeight="1411"/>
+<SubTexture name="Barbarian RIGHT animation0002" x="0" y="1400" width="1395" height="1278" frameX="-41" frameY="-7" frameWidth="1603" frameHeight="1411"/>
+<SubTexture name="Barbarian RIGHT animation0003" x="1445" y="1400" width="1381" height="1276" frameX="-30" frameY="-0" frameWidth="1603" frameHeight="1411"/>
+<SubTexture name="Barbarian RIGHT animation0004" x="0" y="2728" width="1376" height="1283" frameX="-0" frameY="-2" frameWidth="1603" frameHeight="1411"/>
+</TextureAtlas>

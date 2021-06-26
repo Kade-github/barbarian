@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Up.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="UP barbarian0000" x="0" y="0" width="1529" height="1202" frameX="-12" frameY="-0" frameWidth="1541" frameHeight="1202"/>
+<SubTexture name="UP barbarian0001" x="1579" y="0" width="1522" height="1177" frameX="-3" frameY="-25" frameWidth="1541" frameHeight="1202"/>
+<SubTexture name="UP barbarian0002" x="0" y="1252" width="1489" height="1139" frameX="-15" frameY="-63" frameWidth="1541" frameHeight="1202"/>
+<SubTexture name="UP barbarian0003" x="1539" y="1252" width="1497" height="1132" frameX="-7" frameY="-70" frameWidth="1541" frameHeight="1202"/>
+<SubTexture name="UP barbarian0004" x="0" y="2441" width="1505" height="1119" frameX="-0" frameY="-83" frameWidth="1541" frameHeight="1202"/>
+</TextureAtlas>
